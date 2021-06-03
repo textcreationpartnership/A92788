@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable advertisement to the people of England. Whether a monarchy, or free state, be better; in this juncture of time?</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92788</idno><idno type="EEBO-CITATION">99863447</idno>
+  <idno type="VID">115649</idno>
+  <idno type="EEBO-PROQUEST">2240952001</idno>
+  
+            <idno type="STC">Wing S2206</idno>
+            <idno type="STC">Thomason E988_30</idno>
+            <idno type="STC">ESTC R203506</idno>
+            <idno type="PROQUEST">99863447</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863447e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115649)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable advertisement to the people of England. Whether a monarchy, or free state, be better; in this juncture of time?</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Matthews, at the White Horse in St. Paul's Church-yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "June. 30 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Monarchy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Republics --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115649:1"/>
+            <head>A Seasonable <hi>ADVERTISEMENT To the People of</hi> England. Whether a Monarchy, or Free State, be better; in this juncture of time?</head>
+            <p>THe Inhabitants of the famous Island of <hi>Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<g ref="char:EOLhyphen"/>lene</hi> (whose naturall Prince did not onely die lately himself, but, together with his life, left the whole Royall Line extinguished) being without a Prince to Govern them, disputed in many of their Congregations, Whether it were better for them to live still under a Monarchy, and chuse a new Prince; or put on that noble resolution, which had made so many People fortunate, of erecting a Free State. Great and dangerous contentions arose touching a businesse of this weight; and 'tis said, that one of the chiefest Citizens, in the last Congregation that was assembled to this purpose, spake thus:</p>
+            <q rend="margQuotes">
+               <p>Beloved fellow-Citizens, Of all the felicities which men receive from God in this world, two are the greatest; That they are born Men, not Beasts; and Free, not Slaves. And surely there is good rea<g ref="char:EOLhyphen"/>son for this; for, what greater happinesse can any man receive in this life, than to obey onely the Laws of God and Men? What Jewell is to
+<pb n="2" facs="tcp:115649:2"/> be compared to the rich Treasure, full of all the most pretious Orientall Stones, of securing life, means, and reputation, from the, will of one par<g ref="char:EOLhyphen"/>ticular man, inclined to commit so many imper<g ref="char:EOLhyphen"/>tinent things? None that is here, acknowledgeth Liberty to be more lovely than my self, and that it is a pretious gift, which immortall God be<g ref="char:EOLhyphen"/>stowes of meer grace on those whom he loves: He who knowes not this, I pronounce him to be blind; him a fool, who doth not highly esteem it; and him an enemy to himself and Country, who doth not heartily endeavour it. But, my dear Friends, you must consider, that as those pretious S<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s are most esteemed of, which are rareliest found amongst men; so we must grant, that perfect Liberty is a pretious Jewell, and much desired by mankind, because it is rarely found amongst men. And know, that as the Carbuncle and Diamond are created by an absolute heavenly vertue; and such counterfeit Stones are poor and base, which men make in imitation of the Divine Artificer; so Liberty may be rather said to be a Divine Manufacture, than any human work. If it were possible to institute a Free State so easily, as I perceive you imagin, there where Monarchy hath a long time reigned, since Li<g ref="char:EOLhyphen"/>berty is a thing so much desired by all men, there would be no Monarchy left in the world: For peo<g ref="char:EOLhyphen"/>ple, to come by so great a happinesse, would all of them lay claim to Liberty. And yet, since there are many Monarchies, and but few Common-wealths, we must needs see, that to erect Liberty in a Coun<g ref="char:EOLhyphen"/>try, is rather an impossible than a difficult thing; and a gift which ought rather to be begg'd of God by prayer, than to be hoped for from any human wis<g ref="char:EOLhyphen"/>dom. Nor be not moved by the example of so many
+<pb n="3" facs="tcp:115649:2"/> Common-wealths, which, with so much happinesse to those people, are lately instituted in <hi>Germany:</hi> For, examples square not, unlesse where the same cir<g ref="char:EOLhyphen"/>cumstances agree. Too great is the disproportion between the Germans (who are born in a sort of middle Liberty, from which condition, passage is easily made to entire Liberty) and Us, who having alwaies undergon all servitude from our Princes, are so far from being able to purchase perfect Liberty, as vve cannot passe from this into the other extream, vvithout exposing our selves and Country to mani<g ref="char:EOLhyphen"/>fest ruine.</p>
+               <p>I grant, that some Princes prove sometimes phan<g ref="char:EOLhyphen"/>tasticall, insolent, very beasts; and that it is a species of great felicity to secure one's self from these evills. But say you with me, That there is not a more phan<g ref="char:EOLhyphen"/>tastical, insolent, or bestial Government in the world, than that of an ill-ordered Common-vvealth, of a free tumultuous State. All vvho have vvritten, or reasoned of politick affairs, confesse, that a People like us, born, bred up, and vvho have lived even to their decrepid age in servitude, are altogether unca<g ref="char:EOLhyphen"/>ble of living free. Common-vvealths being more formed by the good condition of Citizens dispositi<g ref="char:EOLhyphen"/>ons, proportion'd to live free, than by Laws. For, as a new Vine soon grovvs dry, if it be planted by an aged Tree; and, on the contrary, does grow up pros<g ref="char:EOLhyphen"/>perously, and bring forth fruit in great abundance, if it be placed neer a Plant, vvhich, as if it were her husband, is of like age vvith it self; So, the new Vine of Liberty scorns to take root, and to bring forth sa<g ref="char:EOLhyphen"/>tisfactory fruit, if it be placed neer an antient Tree of a people, grown old in servitude. For the ambition of the Nobility, and sedition of the common people, who are capitall enemies to living free, would for
+<pb n="4" facs="tcp:115649:3"/> certain so suck up the radicall moysture, which gives life to the nevv Vine, as they would in a short time make it vvither and become dry.</p>
+               <p>This truth which I relate, is evidently seen in the (as perspicuous as rare) example of all the past &amp; present Liberties of the immortal Venetian Common-vvealth, vvhich being planted vvhilst yet a young Vine, to<g ref="char:EOLhyphen"/>gether vvith the little bush of the Venetian people, though born but a little before in those moorish and fennish grounds, takes such deep and strong root, as it novv gives savory fruits of secure liberty to its Citi<g ref="char:EOLhyphen"/>zens. It is folly for us to hope for alteration of Cu<g ref="char:EOLhyphen"/>stoms, which are not changed so easily as apparell. For mans genius affecting quietnesse in all its opera<g ref="char:EOLhyphen"/>tions, a soul vvhich knovves hovv to submit it self to a Citizen, vvho, though his superior in being a Magistrate, is yet his inferiour in all other respects; hovv being rich and young, to honou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a poor old man vvith submission; to bestovv all his love upon his Country, (next to his God) yea, rather than upon his children or wealth; to prefer the publick good before private interest; to judge uprightly in civill and cri<g ref="char:EOLhyphen"/>minall affairs, betvveen friends and parents; to trem<g ref="char:EOLhyphen"/>ble at the severity of the Laws in a Free State; to possesse the vvealth of a Prince, and have the mind of a private man; so far to mortifie himself, as hum<g ref="char:EOLhyphen"/>bly to beg the favourable vote of his inferior; and finally to have the taciturnity in publick affairs, and to possesse all those habits worthy of a free-man, which are observed to be so exactly in every Noble Venetian; is a doctrine which is not learnt by Books, nor by the mouths of men, but which is brought from the womb, and suckt in with the mother's milk, by such as are born in free Countries.</p>
+               <pb n="5" facs="tcp:115649:3"/>
+               <p>If (as I understand many of you are minded to do) you will send to <hi>Venice,</hi> to receive the Laws of living free, from that excellent Common-wealth; doubtlesly rare ones will be given you: But Laws, no lesse then Habits, do not square with all men. God would be too gracious to men, if they were permitted, in the midst of <hi>July,</hi> when they are scorched by the Sun, to go into the Woods, and take from thence the greatest Plane-tree which they should find there, and carry it into their own Gardens, so to enjoy the shade thereof. Liberty, like a young Tree, planted amongst men, is very hard to rear up; for it must be continually watered with new Laws, according to occasions which every day arise; and prun'd by severe Justice. Nor must men be impatient in these cases; for no man enjoyes the noon-day-comfort of a great Tree, standing in his Court-yard, which was not first planted but a little sprig by his great great-grandfathers. And it hath been God's will, that Trees and Common-wealths should, with much difficulty, arive at long life, and be long in bringing forth their fruits. And very ex<g ref="char:EOLhyphen"/>ceeding great pains and labour was taken, to make that very Plant of the glorious Venetian Liberty, what the world sees it now to be; and those Antients who planted it partook of no good thereby, but onely pain and toyl in bringing it up; whereas now their twentieth generation enjoy the verdure, the noon-day-comfort and freshnesse thereof. For though it be above 1100 years since it was planted in those Washes; yet it is not so long since it be<g ref="char:EOLhyphen"/>came so perfect, and so secure a Plant of true Liberty, as that it fears not the wind of forraign Princes pride, nor the frost of Domestick seditions.</p>
+               <p>Add to these things (my fellow-Citizens) that it is not so much the Laws, though they be very good ones, nor yet the other particulars which I have touched upon, which have maintained, do maintain, and will maintain the
+<pb n="6" facs="tcp:115649:4"/> Venetian Common-wealth in perpetuall greatnesse, as is the miraculous and singular scituation of those Ma<g ref="char:EOLhyphen"/>rish and Fenny grounds, which we cannot partake of. All that understand any thing in State-affairs, confesse, that the Senate is the heart and fountain of life of every Free State. Skilfull Fencers, when they will over-throw their enemy with few blows, make a thrust at their heart; and Princes who have endeavoured to subdue Common-wealths, have made their first blow at the Metropolitan City of the Free-state, onely to dissipate the Senate; for these are the mortall wounds vvhich kill all, even the most potent Liberties: For the Senate being routed, and consequently the heart of the Common-wealth struck through, it dies immediately. An imperfe<g ref="char:EOLhyphen"/>ction vvhich Monarchies have not, the greatnesse of whose Empire is alwaies vvhere the King's person is; as the Duke of <hi>Guise</hi> made proof of, who, by his taking of <hi>Paris,</hi> did rather accelerate his ovvn death, than hasten on his ovvn greatnesse. The Dictator <hi>Cesar</hi> proved this vvhich I affirm to be true, vvho, to Tyrannize over his Country, made himself Master of <hi>Rome</hi> (vvhich <hi>Pompey</hi> vvas very indiscreet in abandoning) onely that he might defeat the Senate. A thing vvhich <hi>Hannibal,</hi> the true Ma<g ref="char:EOLhyphen"/>ster of Militia, and sole Honour of <hi>Africa,</hi> knevv before him, and endeavoured it, but knevv not hovv to effect it: And vvhich, after him, the Emperour <hi>Charls</hi> the fifth, that Founder of the gteatnesse of the Spanish Monarchy, knew very vvell hovv to do, and did practise it against the Florentines, and the Sanesi.</p>
+               <p>This mortal vvound could never be given to the State of <hi>Venice,</hi> whose Metropolis, vvhere the Senate abides, is fortifi'd, and armed vvith the proof-Armour of Mari<g ref="char:EOLhyphen"/>shes and Washes. Wherefore I think I may conclude, that their vvills are good, vvho desire to bring in liberty of living free in our Country; but their vvisdom is but
+<pb n="7" facs="tcp:115649:4"/> vveak: And that they who are for a Prince, intend vvell, &amp; are excellently vvell advised; and in taking a reso<g ref="char:EOLhyphen"/>lution in this our so vveighty businesse, I desire you all to remember, that the Florentine Nobility which through the impertinency of the seditious people, could never bring in a perfect form of living free in their Country, not being able any longer to undergo the cruell and bloody insolen<g ref="char:EOLhyphen"/>cies of the base Plebeians, vvere forced to cal in a forraign Tyrant, the Duke of <hi>Atene,</hi> only that by extraordinary se<g ref="char:EOLhyphen"/>verity, he might afflict the common people of <hi>Florence,</hi> who did so abuse their liberty.</p>
+            </q>
+            <p>Though these reasons vvere thought very efficacious by the vviser sort, yet could they not make the people resolve upon chusing a nevv Prince. Wherefore the businesse vvas carried for living free, and that Ambassadors should be sent to <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> to receive the Lavvs of living free, from that Common-wealth: vvhich vvas suddainly done. The Ambassadors were received &amp; welcommed by the Venetian Common-wealth, vvith incredible magnificency; and the Venetian Govern<g ref="char:EOLhyphen"/>ment, Orders, and Laws were shown unto them, which the Ambassadours caused to be exactly copied out, &amp; registred, and so departed. And being returned to <hi>Mitylene,</hi> they made their report, and read in publick-Senate the Laws vvhich they had brought with them, which gave very bad satisfa<g ref="char:EOLhyphen"/>ction to all the common people, and to the greatest part of the Nobility: For the people could by no means endure, that by the Venetian Lavvs they should be excluded from pub<g ref="char:EOLhyphen"/>lick Government, saying, That that Country merited not to be called free, vvhere all did not command. And the vveal<g ref="char:EOLhyphen"/>thier Nobility being accustomed, under Monarchy, to pur<g ref="char:EOLhyphen"/>chase favours from the Favourits, and to obtain places of Magistracy (vvhich they did shamefully execute) from their Princes, storm'd and said publickly, That that vvas a most unfortunate Country vvhere men <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re inhibited the ma<g ref="char:EOLhyphen"/>king free use of their monies; which vvas purchased by in<g ref="char:EOLhyphen"/>dustrious
+<pb n="8" facs="tcp:115649:5"/> men at the cost of so much sweat, not onely to buy meat &amp; clothes, but to purchase therewith such thin<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> w<seg rend="sup">ch</seg> encreased reputation. And that it vvas much better for Citi<g ref="char:EOLhyphen"/>zens to be ruled over, by a Prince, whose good-will might be won by a thousand severall waies, than to be govern'd by in<g ref="char:EOLhyphen"/>exorable Laws, when they were administred by a numerous Senate; where a little not being sufficient, and enough not being alvvaies to be had, vvhereby to make so many preva<g ref="char:EOLhyphen"/>ricate, and break the Laws, it might truly be said to be in<g ref="char:EOLhyphen"/>corruptible. And that under Monarchies, the chiefest of the Nobility did from the first execute the prime places of the Principality; and that in Common-wealths it was sad for them to begin together vvith the meanest Senators, at the lowest employments, and come slowly by degrees to places of highest dignity. That it required more than the usuall years of man, to arive at the supreamest preferments; and the rigour of bestovving place<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Magistracy onely accor<g ref="char:EOLhyphen"/>ding to mens meer merit, vvas a Precept first invented by Tyrants, to keep potent men lovv, and to exalt the mean.</p>
+            <p>But amongst all these bad satisfactions, nothing distasted three parts of four of the Nobility more, than the severe Ma<g ref="char:EOLhyphen"/>gistracy of the Censors, vvhich they heard was used by the Venetians, vvho perpetually did severely and strictly exa<g ref="char:EOLhyphen"/>mine all mens behaviours: vvherefore they said freely, That if the Nobility were so severely proceeded with in the State of <hi>Venice,</hi> the noble Venetians vvere slaves amidst their li<g ref="char:EOLhyphen"/>berty, and the people of <hi>Mitylene</hi> free amidst their servitude. For very dread of these things, all, with a loud voyce, cryed out, Monarchy, Monarchy: And that if any one would set up Liberty in <hi>Mitylene,</hi> let them burn all Laws and Statutes; for such understood that to be perfect Liberty, where none obeyed; all commanded, and every one did what he list.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Print<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi> T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hews, <hi>at the</hi> White Horse <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Church-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard.</hi> 1659.</p>
+            <pb facs="tcp:115649:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
